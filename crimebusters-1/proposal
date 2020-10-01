@@ -1,0 +1,31 @@
+CRIMEBUSTERS
+Analyzing trends in arrest and crime rates
+
+Liam Puknys, Max Marcussen, Samantha Stagg, Ryan Simeon
+
+Our main goal for this project is to create a website where people can look up correlations on various city, state, and nationwide crime statistics from 2001-2014. We will gather arrest rate data from the Office of Juvenile Justice and Delinquency Protection (OJJDP) within the Department of Justice and crime data from City-Data.com, which includes rates of specific crimes committed in each city by year. We will be looking at murder, rapes, robberies, assaults, burglaries, thefts, auto thefts, and arson, as well as various aggregate and derivative statistics, such as overall crime rate and changes in crime rates. For arrest rates by city, we will use the Bureau of Justice Statistics’ arrest data analysis tool to look at the police department arrest rates of each city.
+	In order to access the data from these sites, we will likely use Selenium, as it will allow us to generate the .csv files we require much faster than doing them by hand. We will then analyze the data using .csv and Pandas methods in order to format it uniformly, and then use Django to build a website to show our findings.
+
+Sources:
+State arrest rates: https://www.ojjdp.gov/ojstatbb/ezaucr/asp/ucr_display.asp
+State crime rates: https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+City arrest rates: https://www.bjs.gov/index.cfm?ty=datool&surl=/arrests/index.cfm#
+City crime rates: https://www.ucrdatatool.gov/Search/Crime/Local/JurisbyJurisLarge.cfm?CFID=341423759&CFTOKEN=63e2ef8ec8fcd203-132DC2D9-D74D-A061-9F1B7EFC14635490 
+City data: http://www.city-data.com/crime/
+In depth Chicago data (1965-2017): https://home.chicagopolice.org/inside-the-cpd/statistical-reports/annual-reports/?fbclid=IwAR0P5mgCBC7N-0eF0fl1CSTxLcOK6EByy9ZNKYpi5ai6SoSe5trYXJhyVNE
+Individual crime Chicago data: https://data.cityofchicago.org/Public-Safety/Crimes-2018/3i3m-jwuy
+More FBI data: https://www.fbi.gov/services/cjis/ucr; https://crime-data-explorer.fr.cloud.gov/
+https://crime-data-explorer.fr.cloud.gov/downloads-and-docs
+Within the above site, this page has a bunch of CSV files that might be of interest:
+Yet more Chicago data: https://home.chicagopolice.org/online-services/public-arrest-data/
+Arrest data for chicago as a csv
+
+Our proposed timeline is to:
+By the end of week 6: scrape all of our data from the web and compile it in a database.
+By the end of week 8: have a working website that can access our database and provide useful information and correlations. We’ll need to:
+Build a website using Django that has access to our database.
+Build code that lets people provide inputs (a city, arrest rates for certain types of crime, subsequent crime rates, etc.), then presents them with the associated correlations.
+By the end of week 10: finding the most meaningful correlations, finding fun correlations, and adding features.
+Our goal is to finish by week 8 -- since we’re likely to run into problems, we’re aiming for an early finish with a couple weeks to fix issues or to add more features.
+
+asdf

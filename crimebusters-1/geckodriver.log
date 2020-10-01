@@ -1,0 +1,1554 @@
+1550633198045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GiTUpAr3hcCj"
+1550633199982	Marionette	INFO	Listening on port 40628
+1550633200064	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550633200161	Marionette	DEBUG	[2147483649] Frame script loaded
+1550633200162	Marionette	DEBUG	[2147483649] Frame script registered
+1550633200181	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550633200773	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550633201261	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550633202558	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550633202823	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550633203050	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550633203290	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550633203513	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550633203736	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550633203976	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550633204200	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550633248141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SDUFz5N1Q9eH"
+1550633250361	Marionette	INFO	Listening on port 39784
+1550633250464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550633250568	Marionette	DEBUG	[2147483649] Frame script loaded
+1550633250595	Marionette	DEBUG	[2147483649] Frame script registered
+1550633250659	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550633251172	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550633251732	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550633254076	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550633254341	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550633254564	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550633254794	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550633255014	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550633255236	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550633255459	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550633255676	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550633255697	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550633255896	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550633255897	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550633255981	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550633256108	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550633256279	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550633258445	Marionette	INFO	Stopped listening on port 39784
+[Parent 23079, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1550633303043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0TaCSgtaw2Vr"
+1550633304859	Marionette	INFO	Listening on port 38053
+1550633304961	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550633305012	Marionette	DEBUG	[2147483649] Frame script loaded
+1550633305014	Marionette	DEBUG	[2147483649] Frame script registered
+1550633305093	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550633305478	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550633305845	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550633306614	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550633306871	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550633307094	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550633307327	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550633307547	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550633307772	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550633307993	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550633308212	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550633308240	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550633308592	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550633308593	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550633308669	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550633308819	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550633308942	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550633311184	Marionette	INFO	Stopped listening on port 38053
+1550642755781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JPufB09w1DNZ"
+1550642757662	Marionette	INFO	Listening on port 45914
+1550642757717	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550642757761	Marionette	DEBUG	[2147483649] Frame script loaded
+1550642757762	Marionette	DEBUG	[2147483649] Frame script registered
+1550642757786	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550642758128	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550642758548	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550642759501	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550642759762	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550642759983	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550642760215	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550642760435	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550642760655	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550642760878	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550642761098	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550642761116	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550642761251	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550642761254	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550642761347	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550642761350	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550642761546	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1550642763408	Marionette	INFO	Stopped listening on port 45914
+[Parent 23546, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1550642793898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dHQ3YddQXlQM"
+1550642795748	Marionette	INFO	Listening on port 41191
+1550642795823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550642795870	Marionette	DEBUG	[2147483649] Frame script loaded
+1550642795872	Marionette	DEBUG	[2147483649] Frame script registered
+1550642795893	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550642796271	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550642796621	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550642798330	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550642798613	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550642798834	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550642799064	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550642799282	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550642799503	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550642799728	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550642799945	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550642799965	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550642800113	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550642800114	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550642800212	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550642800265	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550642800450	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550642877412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dwzAaIsOjDNT"
+1550642879471	Marionette	INFO	Listening on port 43393
+1550642879567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550642879612	Marionette	DEBUG	[2147483649] Frame script loaded
+1550642879663	Marionette	DEBUG	[2147483649] Frame script registered
+1550642879759	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550642880115	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550642880380	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550642884615	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550642884884	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550642885105	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550642885336	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550642885556	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550642885778	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550642885999	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550642886218	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550642886280	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550642886420	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550642886421	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550642886518	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550642886551	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550642886651	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550642888789	Marionette	INFO	Stopped listening on port 43393
+[Parent 23986, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1550644189146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tagZRxC3Up6n"
+1550644191143	Marionette	INFO	Listening on port 32967
+1550644191160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550644191229	Marionette	DEBUG	[2147483649] Frame script loaded
+1550644191239	Marionette	DEBUG	[2147483649] Frame script registered
+1550644191262	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550644191552	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550644191915	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550644193987	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550644194274	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550644194496	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550644194726	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550644194947	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550644195176	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550644195397	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550644195621	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550644195639	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550644195811	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550644195814	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550644195869	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550644195931	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550644196116	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550644198153	Marionette	INFO	Stopped listening on port 32967
+1550644272979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LboDbHq2vXJe"
+1550644275107	Marionette	INFO	Listening on port 36972
+1550644275201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550644275276	Marionette	DEBUG	[2147483649] Frame script loaded
+1550644275277	Marionette	DEBUG	[2147483649] Frame script registered
+1550644275301	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550644275730	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550644276047	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550644277145	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550644277463	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550644277681	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550644277901	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550644278135	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550644278377	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550644278598	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550644278821	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550644278855	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550644279043	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550644279049	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550644279151	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550644279277	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550644279819	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550644281907	Marionette	INFO	Stopped listening on port 36972
+1550644387481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yxi80rDzzNRf"
+1550644389582	Marionette	INFO	Listening on port 36897
+1550644389633	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550644389686	Marionette	DEBUG	[2147483649] Frame script loaded
+1550644389687	Marionette	DEBUG	[2147483649] Frame script registered
+1550644389767	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550644391979	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550644392335	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550644393370	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550644393636	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550644393861	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550644394084	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550644394306	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550644394529	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550644394752	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550644394973	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550644394990	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550644395120	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550644395121	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550644395191	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550644395244	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550644395371	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550644397504	Marionette	INFO	Stopped listening on port 36897
+1550645021407	Marionette	INFO	Stopped listening on port 41191
+1550645025270	Marionette	INFO	Stopped listening on port 40628
+1550645040482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Emei0CY4XtFP"
+1550645042509	Marionette	INFO	Listening on port 45455
+1550645042597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550645042666	Marionette	DEBUG	[2147483649] Frame script loaded
+1550645042672	Marionette	DEBUG	[2147483649] Frame script registered
+1550645042715	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550645043074	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550645043461	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550645044509	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550645097888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DReE1gt2qSTw"
+1550645099798	Marionette	INFO	Listening on port 41704
+1550645099805	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550645099864	Marionette	DEBUG	[2147483649] Frame script loaded
+1550645099868	Marionette	DEBUG	[2147483649] Frame script registered
+1550645118581	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550645118881	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550645119096	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550645120214	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1550645920547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xk8sS4Ff0scB"
+1550645922556	Marionette	INFO	Listening on port 33403
+1550645922567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550645922636	Marionette	DEBUG	[2147483649] Frame script loaded
+1550645922646	Marionette	DEBUG	[2147483649] Frame script registered
+1550645922698	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550645923017	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550645923306	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550645924332	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550645924587	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550645924819	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550645925044	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550645925263	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550645925487	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550645925710	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550645925930	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550645925948	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550645926081	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550645926083	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550645926179	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550645926478	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550645926653	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550645928609	Marionette	INFO	Stopped listening on port 33403
+1550645929297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.R4HNexE3iYJt"
+1550645931121	Marionette	INFO	Listening on port 45956
+1550645931226	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550645931277	Marionette	DEBUG	[2147483649] Frame script loaded
+1550645931288	Marionette	DEBUG	[2147483649] Frame script registered
+1550645931321	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550645931725	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550645932071	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550645933174	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550645933431	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550645933653	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550645933872	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550645934098	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550645934321	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550645934543	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550645934764	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550645934782	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550645934921	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550645934922	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550645935010	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550645935225	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550645935505	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550645937309	Marionette	INFO	Stopped listening on port 45956
+[Parent 28342, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1550645937879	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TBnArfmjzv19"
+1550645939748	Marionette	INFO	Listening on port 43957
+1550645939798	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550645939875	Marionette	DEBUG	[2147483649] Frame script loaded
+1550645939877	Marionette	DEBUG	[2147483649] Frame script registered
+1550645939903	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550645940230	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550645940643	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550645941942	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550645942198	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550645942423	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550645942656	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550645942876	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550645943101	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550645943326	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550645943546	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550645943566	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550645943732	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550645943737	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550645943825	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550645944036	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550645944363	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550645946434	Marionette	INFO	Stopped listening on port 43957
+1550645946998	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qaDwzemA8Ozw"
+1550645949430	Marionette	INFO	Listening on port 38761
+1550645949479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550645949584	Marionette	DEBUG	[2147483649] Frame script loaded
+1550645949589	Marionette	DEBUG	[2147483649] Frame script registered
+1550645949627	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550645950244	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550645950641	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550645951726	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 26753, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 26425, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1550645951997	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 28722, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1550646053463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jFPMBJbRsubc"
+1550646055272	Marionette	INFO	Listening on port 36642
+1550646055305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646055381	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646055389	Marionette	DEBUG	[2147483649] Frame script registered
+1550646055455	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646056058	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646056301	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646057434	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646057720	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646057944	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646058168	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646058389	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646058625	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646059524	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646059938	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646059995	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646060437	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646060439	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646060667	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646060772	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646061114	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646070272	Marionette	INFO	Stopped listening on port 36642
+1550646071370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FnHxe3GIfwuO"
+1550646077576	Marionette	INFO	Listening on port 40856
+1550646078161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646078222	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646078227	Marionette	DEBUG	[2147483649] Frame script registered
+1550646078247	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646078888	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646079262	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646082214	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646082505	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646082728	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646082954	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646083176	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646083393	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646083624	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646083856	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646083877	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646084023	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646084027	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646084150	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646084271	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646084402	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646087835	Marionette	INFO	Stopped listening on port 40856
+[Parent 29018, Gecko_IOThread] WARNING: pipe error (62): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1550646088554	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qPB8xoREvkXX"
+1550646090619	Marionette	INFO	Listening on port 42350
+1550646090676	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646090777	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646090809	Marionette	DEBUG	[2147483649] Frame script registered
+1550646090866	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646091230	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646091498	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646092635	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646092934	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646093156	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646093376	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646093593	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646093823	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646094043	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646094261	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646094279	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646094420	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646094424	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646094569	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646094594	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646094896	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646097074	Marionette	INFO	Stopped listening on port 42350
+1550646098693	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wUut6AKpbKSV"
+1550646100701	Marionette	INFO	Listening on port 37092
+1550646100715	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646100801	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646100811	Marionette	DEBUG	[2147483649] Frame script registered
+1550646100835	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646101349	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646101642	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646102655	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646102920	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646103170	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646103407	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646103626	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646103850	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646104071	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646104288	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646104309	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646104453	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646104454	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646104527	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646104820	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646104990	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646107004	Marionette	INFO	Stopped listening on port 37092
+1550646107694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nh63RWNKGCXr"
+1550646109809	Marionette	INFO	Listening on port 34465
+1550646109911	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646109956	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646109969	Marionette	DEBUG	[2147483649] Frame script registered
+1550646109987	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646110296	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646110601	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646112203	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646112478	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646112702	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646112926	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646113157	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646113377	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646113599	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646113816	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646113839	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646114020	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646114025	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646114106	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646114109	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646114355	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646116426	Marionette	INFO	Stopped listening on port 34465
+1550646118103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FOcZTDP11Sz4"
+1550646120142	Marionette	INFO	Listening on port 45035
+1550646120240	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646120315	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646120319	Marionette	DEBUG	[2147483649] Frame script registered
+1550646120343	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646120648	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646121240	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646122225	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646122505	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646122734	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646122958	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646123188	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646123429	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646123659	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646123880	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646123920	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646124092	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646124093	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646124181	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646124316	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646124508	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646126440	Marionette	INFO	Stopped listening on port 45035
+1550646127649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JIW1tQtIaPSq"
+1550646131553	Marionette	INFO	Listening on port 38710
+1550646131643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646131724	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646131733	Marionette	DEBUG	[2147483649] Frame script registered
+1550646131751	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646132320	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646132691	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646133679	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646133947	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646134168	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646134391	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646134612	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646134852	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646135080	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646135299	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646135318	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646135488	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646135489	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646135623	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646135665	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646135862	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646137839	Marionette	INFO	Stopped listening on port 38710
+1550646138522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WnJsm5BA6q8L"
+1550646140756	Marionette	INFO	Listening on port 34095
+1550646140845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646140901	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646140902	Marionette	DEBUG	[2147483649] Frame script registered
+1550646140922	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646141276	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646141616	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646142858	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646143125	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646143343	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646143568	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646143794	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646144029	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646144258	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646144481	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646144504	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646144750	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646144752	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646144950	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646145026	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646145269	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646148094	Marionette	INFO	Stopped listening on port 34095
+1550646148795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pnQpOSD8AJ3U"
+1550646150986	Marionette	INFO	Listening on port 38709
+1550646151050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646151124	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646151125	Marionette	DEBUG	[2147483649] Frame script registered
+1550646151200	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646151842	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646152457	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646156853	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646157117	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646157337	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646157561	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646157784	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646158028	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646158251	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646158470	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646158498	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646158669	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646158671	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646158779	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646158838	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646159039	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646160975	Marionette	INFO	Stopped listening on port 38709
+[Parent 30264, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1550646162658	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Us8jAdiludQP"
+1550646166535	Marionette	INFO	Listening on port 38982
+1550646166703	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646166851	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646166854	Marionette	DEBUG	[2147483649] Frame script registered
+1550646166874	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646167152	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646167599	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646168604	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646168879	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646169101	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646169322	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646169545	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646169770	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646169998	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646170217	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646170236	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646170453	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646170455	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646170597	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646170602	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646170933	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646173179	Marionette	INFO	Stopped listening on port 38982
+1550646173863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gtdNUCWcUvrc"
+1550646176090	Marionette	INFO	Listening on port 35953
+1550646176190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646176234	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646176276	Marionette	DEBUG	[2147483649] Frame script registered
+1550646176327	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646176668	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646176916	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646182379	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646182691	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646182939	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646183161	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646183387	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646183620	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646183850	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646184081	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646184106	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646184277	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646184279	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646184475	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646184599	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646184954	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646186921	Marionette	INFO	Stopped listening on port 35953
+1550646187559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qi0ygdgtoKqr"
+1550646189866	Marionette	INFO	Listening on port 40240
+1550646189887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646189957	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646189962	Marionette	DEBUG	[2147483649] Frame script registered
+1550646189994	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646190375	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646190677	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646191981	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646192238	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646192475	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646192699	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646192918	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646193145	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646193368	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646193590	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646193607	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646193776	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646193779	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646193903	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646193911	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646194111	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646196162	Marionette	INFO	Stopped listening on port 40240
+1550646196834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oEKY5XgnyZFV"
+1550646198965	Marionette	INFO	Listening on port 46279
+1550646199059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646199095	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646199096	Marionette	DEBUG	[2147483649] Frame script registered
+1550646199120	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646199483	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646199762	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646200777	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646201046	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646201278	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646201498	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646201720	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646201940	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646202163	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646202381	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646202399	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646202571	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646202576	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646202667	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646202836	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646203103	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646205196	Marionette	INFO	Stopped listening on port 46279
+[Parent 30981, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1550646206777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xsfvm5mmYRCS"
+1550646208943	Marionette	INFO	Listening on port 39673
+1550646209009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646209067	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646209073	Marionette	DEBUG	[2147483649] Frame script registered
+1550646209100	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646209482	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646209792	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646210860	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646211131	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646211373	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646211597	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646211816	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646212036	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646212258	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646212475	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646212493	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646212660	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646212662	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646212777	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646212864	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646213199	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646215045	Marionette	INFO	Stopped listening on port 39673
+[Parent 31168, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1550646215698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DuG9KUUEwTGs"
+1550646217734	Marionette	INFO	Listening on port 44799
+1550646217849	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646217922	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646217930	Marionette	DEBUG	[2147483649] Frame script registered
+1550646217954	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646218360	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646218799	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646219864	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646220135	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646220364	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646220591	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646220810	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646221032	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646221256	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646221475	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646221492	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646221648	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646221650	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646221710	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646221794	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646221965	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646223908	Marionette	INFO	Stopped listening on port 44799
+[Parent 31366, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1550646224588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hIXMl1tsJlUf"
+1550646226466	Marionette	INFO	Listening on port 34062
+1550646226545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646226609	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646226610	Marionette	DEBUG	[2147483649] Frame script registered
+1550646226644	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646227075	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646227395	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646228451	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646228718	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646228938	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646229162	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646229381	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646229603	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646229825	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646230043	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646230063	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646230227	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646230227	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646230351	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646230522	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646230713	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646232641	Marionette	INFO	Stopped listening on port 34062
+1550646233285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xO5mA82TVA37"
+1550646235230	Marionette	INFO	Listening on port 42334
+1550646235300	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646235366	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646235376	Marionette	DEBUG	[2147483649] Frame script registered
+1550646235418	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646235668	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646236043	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646237180	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646237421	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646237645	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646237868	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646238088	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646238315	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646238545	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646238763	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646238782	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646238944	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646238945	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646239064	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646239070	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646239268	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646241297	Marionette	INFO	Stopped listening on port 42334
+1550646241971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aYWtA6aYapiH"
+1550646243922	Marionette	INFO	Listening on port 44603
+1550646244004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646244088	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646244094	Marionette	DEBUG	[2147483649] Frame script registered
+1550646244116	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646244623	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646245281	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646247671	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646248043	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646248268	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646248494	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646248713	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646248935	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646249154	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646249372	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646249388	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646249558	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646249559	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646249641	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646249696	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646249923	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646252094	Marionette	INFO	Stopped listening on port 44603
+[Parent 31843, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1550646252785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.52mT8zMqKKFS"
+1550646254808	Marionette	INFO	Listening on port 34953
+1550646254914	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646254971	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646254978	Marionette	DEBUG	[2147483649] Frame script registered
+1550646255012	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646255341	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646255707	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646257774	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646258041	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646258265	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646258487	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646258711	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646258938	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646259157	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646259376	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646259394	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646259571	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646259574	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646259673	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646259749	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646259951	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646261978	Marionette	INFO	Stopped listening on port 34953
+1550646262633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qav41f2wTBW3"
+1550646264852	Marionette	INFO	Listening on port 45918
+1550646264978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646265041	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646265042	Marionette	DEBUG	[2147483649] Frame script registered
+1550646265059	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646265336	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646265667	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646266685	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646266939	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646267159	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646267386	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646267609	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646267837	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646268061	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646268286	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646268306	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646268476	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646268477	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646268603	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646268631	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646268786	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646271287	Marionette	INFO	Stopped listening on port 45918
+[Parent 32173, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1550646272972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nju3aohi27rJ"
+1550646274972	Marionette	INFO	Listening on port 42882
+1550646275028	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646275122	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646275127	Marionette	DEBUG	[2147483649] Frame script registered
+1550646275165	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646275551	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646275886	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646277056	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646277334	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646277559	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646277783	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646278001	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646278227	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646278452	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646278673	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646278693	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646278858	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646278859	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646278941	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646278970	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646279170	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646281064	Marionette	INFO	Stopped listening on port 42882
+1550646281722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SGdSp9UuXmu0"
+1550646289986	Marionette	INFO	Listening on port 46396
+1550646290135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646290433	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646290473	Marionette	DEBUG	[2147483649] Frame script registered
+1550646290821	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646291538	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646292385	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646294793	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646295137	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646295361	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646295595	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646295819	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646296068	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646296304	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646296568	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646296602	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646296783	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646296786	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646297257	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646297264	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646298077	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646300528	Marionette	INFO	Stopped listening on port 46396
+1550646301300	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GH1RMz3c5o1T"
+1550646303891	Marionette	INFO	Listening on port 44234
+1550646303963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646304012	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646304013	Marionette	DEBUG	[2147483649] Frame script registered
+1550646304033	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646304358	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646304799	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646305701	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646305969	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646306189	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646306410	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646306628	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646306848	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646307069	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646307288	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646307309	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646307472	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646307472	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646307576	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646307611	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646307894	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646309876	Marionette	INFO	Stopped listening on port 44234
+1550646310772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Dj1fzbluIWWN"
+1550646314049	Marionette	INFO	Listening on port 38495
+1550646314085	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646314141	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646314142	Marionette	DEBUG	[2147483649] Frame script registered
+1550646314171	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646314593	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646314878	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646316070	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646316374	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646316603	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646316834	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646317053	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646317277	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646317505	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646317732	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646317756	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646317914	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646317915	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646317975	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646318051	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646318273	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646320684	Marionette	INFO	Stopped listening on port 38495
+1550646321406	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WsA82LiHPSjj"
+1550646323855	Marionette	INFO	Listening on port 44789
+1550646323950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646323997	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646324000	Marionette	DEBUG	[2147483649] Frame script registered
+1550646324058	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646324443	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646324917	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646325914	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646326286	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646326518	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646326746	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646326967	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646327196	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646327427	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646327643	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646327660	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646327823	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646327824	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646327906	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646327915	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646328177	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646330932	Marionette	INFO	Stopped listening on port 44789
+[Parent 533, Gecko_IOThread] WARNING: pipe error (46): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1550646331694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xip8c76IEAxz"
+1550646334266	Marionette	INFO	Listening on port 41415
+1550646334326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646334368	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646334369	Marionette	DEBUG	[2147483649] Frame script registered
+1550646334383	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646334694	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646336226	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646337239	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646337500	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646337720	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646337945	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646338167	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646338389	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646338613	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646338832	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646338852	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646339018	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646339019	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646339088	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646339138	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646339253	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646341625	Marionette	INFO	Stopped listening on port 41415
+1550646342372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cHjY4A2vocmt"
+1550646344175	Marionette	INFO	Listening on port 36562
+1550646344233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646344364	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646344376	Marionette	DEBUG	[2147483649] Frame script registered
+1550646344415	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646344739	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646346325	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646347601	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646347896	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646348118	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646348357	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646348579	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646348806	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646349032	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646349254	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646349273	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646349438	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646349439	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646349585	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646349588	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646349799	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646352902	Marionette	INFO	Stopped listening on port 36562
+1550646354979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EiNwcxEJMbUN"
+1550646357190	Marionette	INFO	Listening on port 35487
+1550646357196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646357287	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646357289	Marionette	DEBUG	[2147483649] Frame script registered
+1550646357327	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646357655	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646357928	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646358937	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646359195	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646359426	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646359649	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646359872	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646360096	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646360339	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646360556	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646360574	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646360738	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646360739	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646360806	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646360926	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646361124	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646366142	Marionette	INFO	Stopped listening on port 35487
+1550646367264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zzl2XG5bCX7v"
+1550646370011	Marionette	INFO	Listening on port 44799
+1550646370123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646370257	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646370313	Marionette	DEBUG	[2147483649] Frame script registered
+1550646370678	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646371237	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646372808	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646372879	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646373471	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646374161	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646374412	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646374653	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646374879	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646375160	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646375410	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646375528	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646375715	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646375716	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646375857	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646376020	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646376274	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646378726	Marionette	INFO	Stopped listening on port 44799
+1550646379388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cj5wATuotwiu"
+1550646381914	Marionette	INFO	Listening on port 39227
+1550646381979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646382099	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646382102	Marionette	DEBUG	[2147483649] Frame script registered
+1550646382151	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646382798	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646383992	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646385398	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646385659	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646385887	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646386137	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646386357	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646386590	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646386817	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646387036	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646387056	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646387246	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646387248	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646387383	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646387411	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646387541	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646390240	Marionette	INFO	Stopped listening on port 39227
+[Parent 1439, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1550646391334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BHFKeIbhLeeL"
+1550646394081	Marionette	INFO	Listening on port 33003
+1550646394190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646394248	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646394253	Marionette	DEBUG	[2147483649] Frame script registered
+1550646394317	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646394790	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646395389	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646396496	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646396822	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646397137	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646397379	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646397607	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646397838	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646398059	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646398278	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646398303	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646398488	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646398489	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646398562	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646398711	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646399091	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646401495	Marionette	INFO	Stopped listening on port 33003
+1550646403177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LmcFHetB2uct"
+1550646405165	Marionette	INFO	Listening on port 42799
+1550646405214	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646405371	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646405373	Marionette	DEBUG	[2147483649] Frame script registered
+1550646405393	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646405666	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646405968	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646407215	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646407502	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646407725	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646407955	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646408179	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646408417	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646408682	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646408977	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646409041	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646409209	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646409212	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646409547	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646409601	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646409895	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646413189	Marionette	INFO	Stopped listening on port 42799
+1550646413984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fJQJCDGxnO2c"
+1550646417266	Marionette	INFO	Listening on port 40736
+1550646417352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646417404	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646417405	Marionette	DEBUG	[2147483649] Frame script registered
+1550646417419	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646417719	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646418288	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646419251	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646419528	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646419756	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646419980	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646420199	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646420422	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646420645	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646420869	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646420913	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646421088	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646421088	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646421181	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646421223	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646421614	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646423916	Marionette	INFO	Stopped listening on port 40736
+1550646424588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EqxD5YkYNlyq"
+1550646427160	Marionette	INFO	Listening on port 36921
+1550646427276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646427343	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646427346	Marionette	DEBUG	[2147483649] Frame script registered
+1550646427378	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646427757	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646428093	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646429263	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646429654	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646429903	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646430134	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646430362	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646430588	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646430820	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646431038	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646431057	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646432914	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646432916	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646433055	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646433093	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646433274	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646435901	Marionette	INFO	Stopped listening on port 36921
+1550646436586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.osRPHQLnuQY5"
+1550646438818	Marionette	INFO	Listening on port 38793
+1550646438915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646438976	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646438979	Marionette	DEBUG	[2147483649] Frame script registered
+1550646439013	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646439429	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646439847	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646442070	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646442338	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646442559	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646442787	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646443023	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646443246	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646443472	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646443689	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646443713	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646443901	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646443904	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646444085	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646444113	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646444305	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646446917	Marionette	INFO	Stopped listening on port 38793
+1550646447615	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QcRdGKtQtKVu"
+1550646450003	Marionette	INFO	Listening on port 44240
+1550646450042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646450104	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646450107	Marionette	DEBUG	[2147483649] Frame script registered
+1550646450148	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646450518	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646451018	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646452211	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646452553	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646452792	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646453015	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646453248	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646453491	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646453712	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646453930	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646453951	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646454122	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646454123	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646454188	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646454266	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646454536	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646456688	Marionette	INFO	Stopped listening on port 44240
+1550646458355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5522yfBX5wey"
+1550646461344	Marionette	INFO	Listening on port 43000
+1550646461554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646461722	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646461787	Marionette	DEBUG	[2147483649] Frame script registered
+1550646461872	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646462507	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646462972	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646463999	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646464268	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646464492	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646464725	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646464959	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646465199	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646465434	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646465655	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646465675	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646465838	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646465839	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646466041	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646466073	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646466348	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646468941	Marionette	INFO	Stopped listening on port 43000
+1550646470656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2KvfZjlBRIEh"
+1550646473098	Marionette	INFO	Listening on port 37800
+1550646473192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646473263	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646473265	Marionette	DEBUG	[2147483649] Frame script registered
+1550646473300	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646473657	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646473946	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646474899	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646475139	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646475370	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646475597	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646475820	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646476045	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646476266	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646476484	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646476501	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646476668	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646476669	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646476725	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646476938	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646477130	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646479789	Marionette	INFO	Stopped listening on port 37800
+1550646481460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cddJLqtGbClg"
+1550646484055	Marionette	INFO	Listening on port 41290
+1550646484101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646484203	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646484206	Marionette	DEBUG	[2147483649] Frame script registered
+1550646484232	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646484564	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646485092	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646486022	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646486296	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646486522	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646486777	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646487012	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646487247	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646487469	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646487700	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646487720	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646487882	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646487883	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646488011	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646488033	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646488359	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646490878	Marionette	INFO	Stopped listening on port 41290
+1550646492013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NlPgcaUgDUym"
+1550646494474	Marionette	INFO	Listening on port 45455
+1550646494542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646494589	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646494591	Marionette	DEBUG	[2147483649] Frame script registered
+1550646494665	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646494966	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646495392	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646496479	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646496732	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646496957	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646497184	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646497408	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646497630	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646497850	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646498072	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646498090	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646498250	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646498251	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646498397	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646498489	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646498710	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646500673	Marionette	INFO	Stopped listening on port 45455
+1550646501302	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.N5JrF2IgOZXC"
+1550646503379	Marionette	INFO	Listening on port 34200
+1550646503437	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646503516	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646503529	Marionette	DEBUG	[2147483649] Frame script registered
+1550646503616	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646503933	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646504219	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646505246	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646505532	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646505754	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646505977	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646506196	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646506422	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646506645	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646506864	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646506882	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646507042	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646507043	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646507182	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646507235	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646507418	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646509340	Marionette	INFO	Stopped listening on port 34200
+1550646510018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EJ9MiPaL0ogn"
+1550646512266	Marionette	INFO	Listening on port 37602
+1550646512366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646512416	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646512417	Marionette	DEBUG	[2147483649] Frame script registered
+1550646512453	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646512817	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646513081	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646515663	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646515945	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646516166	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646516389	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646516609	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646516832	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646517056	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646517286	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646517316	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646517504	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646517505	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646517887	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646517892	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646518210	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646520695	Marionette	INFO	Stopped listening on port 37602
+[Parent 3830, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1550646521474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cd1w0eUZBnge"
+1550646523881	Marionette	INFO	Listening on port 37219
+1550646523917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646523989	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646523991	Marionette	DEBUG	[2147483649] Frame script registered
+1550646524021	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646524441	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646524905	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646525896	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646526210	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646526436	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646526657	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646526877	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646527148	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646527377	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646527600	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646527620	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646527791	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646527792	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646527835	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646527894	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646528017	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646529969	Marionette	INFO	Stopped listening on port 37219
+[Parent 4030, Gecko_IOThread] WARNING: pipe error (46): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1550646530641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dG7gQW7a1uz1"
+1550646533121	Marionette	INFO	Listening on port 43327
+1550646533213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646533269	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646533272	Marionette	DEBUG	[2147483649] Frame script registered
+1550646533321	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646533676	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646534116	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646535262	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646535509	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646535731	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646535953	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646536170	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646536395	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646536623	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646536840	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646536859	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646537024	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646537026	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646537091	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646537142	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646537343	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646539190	Marionette	INFO	Stopped listening on port 43327
+[Parent 4228, Gecko_IOThread] WARNING: pipe error (46): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1550646540859	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VRubP5XsX7hP"
+1550646543580	Marionette	INFO	Listening on port 44590
+1550646543612	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646543680	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646543683	Marionette	DEBUG	[2147483649] Frame script registered
+1550646543711	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646544125	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646544562	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646546199	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646546537	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646546758	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646546988	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646547216	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646547447	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646547670	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646547892	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646547913	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646548077	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646548079	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646548221	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646548224	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646548580	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646550557	Marionette	INFO	Stopped listening on port 44590
+[Parent 4435, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1550646551231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.m3dPIdac7Rou"
+1550646553492	Marionette	INFO	Listening on port 45934
+1550646553558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646553600	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646553602	Marionette	DEBUG	[2147483649] Frame script registered
+1550646553636	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646553925	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646554461	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646555476	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646555756	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646555977	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646556205	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646556425	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646556650	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646556870	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646557092	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646557110	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646557282	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646557283	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646557390	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646557577	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646557908	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646559782	Marionette	INFO	Stopped listening on port 45934
+[Parent 4643, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1550646560450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7PujXVhXMzGa"
+1550646562761	Marionette	INFO	Listening on port 40289
+1550646562776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646562852	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646562855	Marionette	DEBUG	[2147483649] Frame script registered
+1550646562895	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646563305	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646563685	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646564944	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646565216	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646565436	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646565658	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646565883	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646566114	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646566339	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646566556	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646566578	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646567199	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646567200	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646567257	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646567348	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646567654	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646570312	Marionette	INFO	Stopped listening on port 40289
+1550646571005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fWf2hbYfEgdC"
+1550646573230	Marionette	INFO	Listening on port 44893
+1550646573241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646573321	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646573327	Marionette	DEBUG	[2147483649] Frame script registered
+1550646573360	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646573698	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646574167	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646575712	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646576000	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646576221	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646576451	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646576679	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646576905	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646577127	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646577344	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646577368	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646577562	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646577563	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646577703	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646577719	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646577894	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646580041	Marionette	INFO	Stopped listening on port 44893
+[Parent 4989, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1550646580717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.d8dEuhn5MS0H"
+1550646582813	Marionette	INFO	Listening on port 37269
+1550646582874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646582928	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646582930	Marionette	DEBUG	[2147483649] Frame script registered
+1550646582986	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646583402	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646583935	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646584967	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646585218	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646585468	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646585712	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646585948	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646586216	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646586476	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646586745	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646586813	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646587018	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646587019	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646587114	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646587315	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646587526	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646593197	Marionette	INFO	Stopped listening on port 37269
+1550646595199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4SHft2rn8WZF"
+1550646597264	Marionette	INFO	Listening on port 45751
+1550646597366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646597443	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646597444	Marionette	DEBUG	[2147483649] Frame script registered
+1550646597459	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646597905	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646598150	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646600397	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646600644	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646600889	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646601111	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646601368	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646601601	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646601827	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646602059	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646602087	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646602279	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646602280	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646602330	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646602619	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646602820	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646605130	Marionette	INFO	Stopped listening on port 45751
+[Parent 5396, Gecko_IOThread] WARNING: pipe error (46): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1550646605817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ro1I6DAiPCWj"
+1550646607958	Marionette	INFO	Listening on port 35615
+1550646608038	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646608090	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646608094	Marionette	DEBUG	[2147483649] Frame script registered
+1550646608118	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646608512	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646608789	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646610889	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646611157	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646611380	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646611604	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646611821	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646612043	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646612264	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646612482	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646612498	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646612674	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646612675	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646612713	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646612776	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646613043	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646615146	Marionette	INFO	Stopped listening on port 35615
+[Parent 5568, Gecko_IOThread] WARNING: pipe error (46): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1550646615828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Zx5BgEMHebKj"
+1550646617790	Marionette	INFO	Listening on port 44952
+1550646617842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550646617921	Marionette	DEBUG	[2147483649] Frame script loaded
+1550646617931	Marionette	DEBUG	[2147483649] Frame script registered
+1550646617963	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1550646618240	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1550646618704	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646621094	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646621385	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646621608	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646621832	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646622063	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646622288	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646622513	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646622732	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1550646622754	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646622947	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646622949	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm
+1550646623034	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646623092	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1550646623245	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm
+1550646625352	Marionette	INFO	Stopped listening on port 44952
+[Parent 5751, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353

@@ -1,0 +1,6 @@
+numpy
+heapq
+csv
+sys
+mrjob.job
+mrjob.step
